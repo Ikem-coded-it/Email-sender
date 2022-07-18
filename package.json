@@ -1,0 +1,23 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "description": "An automatic email sender using NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikem-coded-it/Email-sender.git"
+  },
+  "keywords": [],
+  "author": "Onubogu Ikemefuna C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikem-coded-it/Email-sender/issues"
+  },
+  "homepage": "https://github.com/Ikem-coded-it/Email-sender#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.7"
+  }
+}
