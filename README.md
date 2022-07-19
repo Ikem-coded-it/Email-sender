@@ -5,4 +5,4 @@ It sends an email from my outlook email adress "Ikemefunaonubogu@outlook.com" to
 
 Run 'node main.js' in the terminal to send email.
 
-![email-screenshot](../Email-sender/Image/Email-Sender.png)
+![email-screenshot](Image/Email-Sender.png)
